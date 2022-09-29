@@ -11,6 +11,7 @@
 # production
 /build
 .netlify
+https:/
 
 # misc
 .DS_Store
